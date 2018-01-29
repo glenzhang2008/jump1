@@ -15,3 +15,9 @@ print("Serving HTTP on port 8086...")
 
 
 httpd.serve_forever()
+
+<<<<<<< HEAD
+new test
+=======
+test1
+>>>>>>> aafe00b347d0b5dd2e1b19761f0f5330079b08df
